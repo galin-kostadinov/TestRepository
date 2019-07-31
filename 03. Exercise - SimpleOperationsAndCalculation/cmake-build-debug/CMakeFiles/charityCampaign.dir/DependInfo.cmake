@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "E:/ComputerProgramming/GitHubRepoSoftUniTasks/Software-Engineering/C++/Programming Basics with C++/03. Exercise - SimpleOperationsAndCalculation/simple_tasks/charityCampaign.cpp" "E:/ComputerProgramming/GitHubRepoSoftUniTasks/Software-Engineering/C++/Programming Basics with C++/03. Exercise - SimpleOperationsAndCalculation/cmake-build-debug/CMakeFiles/charityCampaign.dir/simple_tasks/charityCampaign.cpp.obj"
+  "E:/ComputerProgramming/TestGitHup/TestRepository/03. Exercise - SimpleOperationsAndCalculation/simple_tasks/charityCampaign.cpp" "E:/ComputerProgramming/TestGitHup/TestRepository/03. Exercise - SimpleOperationsAndCalculation/cmake-build-debug/CMakeFiles/charityCampaign.dir/simple_tasks/charityCampaign.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
