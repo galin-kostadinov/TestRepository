@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/ComputerProgramming/TestGitHup/TestRepository/03. Exercise - SimpleOperationsAndCalculation/simple_tasks/RadiansToDegrees.cpp
+iostream
+-
+cmath
+-
+
