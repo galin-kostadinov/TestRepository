@@ -47,10 +47,10 @@ RM = "C:\Program Files\JetBrains\CLion 2019.1.4\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "E:\ComputerProgramming\GitHubRepoSoftUniTasks\Software-Engineering\C++\Programming Basics with C++\06. Nested Conditional Statement"
+CMAKE_SOURCE_DIR = "E:\ComputerProgramming\TestGitHup\TestRepository\06. Nested Conditional Statement"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "E:\ComputerProgramming\GitHubRepoSoftUniTasks\Software-Engineering\C++\Programming Basics with C++\06. Nested Conditional Statement\cmake-build-debug"
+CMAKE_BINARY_DIR = "E:\ComputerProgramming\TestGitHup\TestRepository\06. Nested Conditional Statement\cmake-build-debug"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -79,9 +79,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\ComputerProgramming\GitHubRepoSoftUniTasks\Software-Engineering\C++\Programming Basics with C++\06. Nested Conditional Statement\cmake-build-debug\CMakeFiles" "E:\ComputerProgramming\GitHubRepoSoftUniTasks\Software-Engineering\C++\Programming Basics with C++\06. Nested Conditional Statement\cmake-build-debug\CMakeFiles\progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\ComputerProgramming\TestGitHup\TestRepository\06. Nested Conditional Statement\cmake-build-debug\CMakeFiles" "E:\ComputerProgramming\TestGitHup\TestRepository\06. Nested Conditional Statement\cmake-build-debug\CMakeFiles\progress.marks"
 	$(MAKE) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\ComputerProgramming\GitHubRepoSoftUniTasks\Software-Engineering\C++\Programming Basics with C++\06. Nested Conditional Statement\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\ComputerProgramming\TestGitHup\TestRepository\06. Nested Conditional Statement\cmake-build-debug\CMakeFiles" 0
 .PHONY : all
 
 # The main clean target

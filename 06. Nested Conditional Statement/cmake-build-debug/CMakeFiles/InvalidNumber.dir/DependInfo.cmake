@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "E:/ComputerProgramming/GitHubRepoSoftUniTasks/Software-Engineering/C++/Programming Basics with C++/06. Nested Conditional Statement/simple_task/InvalidNumber.cpp" "E:/ComputerProgramming/GitHubRepoSoftUniTasks/Software-Engineering/C++/Programming Basics with C++/06. Nested Conditional Statement/cmake-build-debug/CMakeFiles/InvalidNumber.dir/simple_task/InvalidNumber.cpp.obj"
+  "E:/ComputerProgramming/TestGitHup/TestRepository/06. Nested Conditional Statement/simple_task/InvalidNumber.cpp" "E:/ComputerProgramming/TestGitHup/TestRepository/06. Nested Conditional Statement/cmake-build-debug/CMakeFiles/InvalidNumber.dir/simple_task/InvalidNumber.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
